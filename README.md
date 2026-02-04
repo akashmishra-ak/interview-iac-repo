@@ -103,7 +103,7 @@ Export the token before deployment:
 bash
 `export GITHUB_TOKEN=ghp_your_token_here`
 
-▶️ Deployment Steps
+## ▶️ Deployment Steps
 
 Clone the repository and run:
 
@@ -113,7 +113,9 @@ cdktf deploy
 
 Confirm the deployment when prompted.
 
-🧩 Bonus Task Clarification
+---
+
+## 🧩 Bonus Task Clarification
 
 The optional bonus task required creating a GitHub Team and assigning repository permissions.
 
