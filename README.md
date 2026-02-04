@@ -123,7 +123,9 @@ GitHub Teams are an organization-level feature. Since this project was implement
 
 The same Infrastructure as Code approach can be seamlessly extended to manage teams and permissions within a GitHub organization.
 
-📘 Key Learnings
+---
+
+## 📘 Key Learnings
 
 Managing GitHub as Infrastructure using Terraform
 
